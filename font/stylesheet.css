@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'yantramanav_regularregular';
+    src: url('yantramanav-regular-webfont.eot');
+    src: url('yantramanav-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yantramanav-regular-webfont.woff2') format('woff2'),
+         url('yantramanav-regular-webfont.woff') format('woff'),
+         url('yantramanav-regular-webfont.ttf') format('truetype'),
+         url('yantramanav-regular-webfont.svg#yantramanav_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
